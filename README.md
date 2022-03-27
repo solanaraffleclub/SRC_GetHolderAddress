@@ -1,6 +1,6 @@
 # SRC_GetHolderAddress
 
-#Get NFT Tokens
+# Get NFT Tokens
 Get NFT tokens using The Block Chain API - Search NFT (https://docs.blockchainapi.com/)
 
 Request Type : POST
@@ -21,7 +21,7 @@ JSON Body :
 
 Save Result as JSON Format
 
-#Get NFT Owner
+# Get NFT Owner
 add "response.json" inside SRC_GetHolderAddress Folder.
 
 Run Eclipse Main.java and see results under NFT_Addressess.csv
