@@ -98,8 +98,8 @@ public class Main {
 			HttpURLConnection con = (HttpURLConnection) url.openConnection();
 			con.setRequestMethod("GET");
 			con.setRequestProperty("Content-Type", "application/json");
-			con.setRequestProperty("APIKeyID", "ndoV5Co2OiDwaFd");
-			con.setRequestProperty("APISecretKey", "mzGfsRP5gfImc9Z");
+			con.setRequestProperty("APIKeyID", "");
+			con.setRequestProperty("APISecretKey", "");
 			con.setConnectTimeout(5000);
 			con.setReadTimeout(5000);
 			
